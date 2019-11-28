@@ -9,7 +9,7 @@ The repository is structured as follows:
 
 OLID/OffenseEval Data: https://competitions.codalab.org/competitions/20011
 
-# Refrences
+# References
 ```
 @inproceedings{zampierietal2019, 
     title={{Predicting the Type and Target of Offensive Posts in Social Media}}, 
