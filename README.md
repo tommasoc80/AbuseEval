@@ -11,9 +11,9 @@ OLID/OffensEval Data: https://competitions.codalab.org/competitions/20011
 
 # Data Statement ([Bender and Friedman, 2018](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041))
 
-The annotation of the explicit-implicit labels in OffensEval has been conducted by a male (38, Italian) and a woman (30, Serbian) annotators, highly educated, and with a background in computational linguistics.
+The annotation of the explicit-implicit labels in OffensEval has been conducted by a male (38, Italian) and a female (39, Serbian) annotators, highly educated, with a background in computational linguistics, and familiar with Twitter.
 
-The inter-annotator agreement of AbuseEval has been conducted by three annotators: 1 man (38, Italian) and two woman (30, Serbian; 23, Russian); all highly educated and with a background in computational linguistics. The full annotation of AbuseEval has been conducted by one annotator (23, Russian), highly educated and with a background in computational linguistics. 
+The inter-annotator agreement of AbuseEval has been conducted by three annotators: 1 man (38, Italian) and 2 women (30, Serbian; 23, Russian); all highly educated, with a background in computational linguistics, and familiar with Twitter. The full annotation of AbuseEval has been conducted by one annotator (23, Russian), highly educated and with a background in computational linguistics. 
 
 All ages refer to the time of annotation: 2019.
 
