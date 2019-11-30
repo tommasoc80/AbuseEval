@@ -9,6 +9,12 @@ The repository is structured as follows:
 
 OLID/OffenseEval Data: https://competitions.codalab.org/competitions/20011
 
+# Data Statement (Bender and Friedman, 2018[https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041])
+
+The annotation of the explicit-implicit labels in OffensEval has been conducted by a male (38, Italian) and a woman (30, Serbian) annotators, highly educated, and with a background in computational linguistics.
+
+The inter-annotator agreement of AbuseEval has been conducted by three annotators: 1 man (38, Italian) and two woman (30, Serbian; 24, Russian); all highly educated and with a background in computational linguistics. The full annotation of AbuseEval has been conducted by one annotator (24, Russian), highly educated and with a background in computational linguistics. 
+
 # References
 ```
 @inproceedings{zampierietal2019, 
