@@ -1,5 +1,5 @@
 # AbuseEval
-Data set for LREC 2020 paper "I Feel Offended, Don't Be Abusive!"
+Data set for LREC 2020 paper "I Feel Offended, Don't Be Abusive!" **paper accepted! stay tuned for the final version **
 
 The repository is structured as follows:
 
@@ -8,6 +8,7 @@ The repository is structured as follows:
 - keywords/ : the folder contains the list of the top 50 keywords from the OffensEval training and test data for sub-task A per class (list of keywords for offensive and not offensive messages)
 
 OLID/OffensEval Data: https://competitions.codalab.org/competitions/20011
+
 
 # Data Statement ([Bender and Friedman, 2018](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041))
 
@@ -26,6 +27,5 @@ All ages refer to the time of annotation: 2019.
     year={2019}
 } 
 ``` 
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
