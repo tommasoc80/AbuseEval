@@ -1,5 +1,5 @@
 # AbuseEval
-Data set for LREC 2020 paper "I Feel Offended, Don't Be Abusive!" **_paper accepted_**
+Data set for LREC 2020 paper "I Feel Offended, Don't Be Abusive!"
 
 The repository is structured as follows:
 
@@ -25,6 +25,13 @@ All ages refer to the time of annotation: 2019.
     author={Zampieri, Marcos and Malmasi, Shervin and Nakov, Preslav and Rosenthal, Sara and Farra, Noura and Kumar, Ritesh}, 
     booktitle={Proceedings of NAACL}, 
     year={2019}
+} 
+
+@inproceedings{casellietal2020, 
+    title={{I Feel Offended, Don’t Be Abusive! Implicit/Explicit Messages in Offensive and Abusive Language}}, 
+    author={Tommaso Caselli,Valerio Basile, Jelena Mitrovi\'{c}, Inga Kartoziya, Michael Granitzer}, 
+    booktitle={Proceedings of LREC}, 
+    year={2020}
 } 
 ``` 
 
