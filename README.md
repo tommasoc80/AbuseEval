@@ -1,5 +1,5 @@
 # AbuseEval
-Data set for LREC 2020 paper "I Feel Offended, Don't Be Abusive!"
+Data set for LREC 2020 paper ["I Feel Offended, Don't Be Abusive!"](_LREC_2020__I_Feel_Offended__Don_t_Be_Abusive_camera-ready.pdf)
 
 The repository is structured as follows:
 
